@@ -1,3 +1,11 @@
+# own
+data/
+.vscode/
+extra3.md
+*.pdf
+*.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
