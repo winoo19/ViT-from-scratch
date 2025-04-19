@@ -7,9 +7,9 @@ from torch.utils.tensorboard import SummaryWriter
 from tqdm.auto import tqdm
 
 # own modules
-from models import VisionTransformer
-from data import load_data
-from utils import (
+from src.models import VisionTransformer
+from src.data import load_data
+from src.utils import (
     Accuracy,
     save_model,
     set_seed,

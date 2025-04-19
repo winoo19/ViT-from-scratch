@@ -3,8 +3,8 @@ import torch
 from torch.jit import RecursiveScriptModule
 
 # own modules
-from data import load_data
-from utils import (
+from src.data import load_data
+from src.utils import (
     Accuracy,
     load_model,
     set_seed,
