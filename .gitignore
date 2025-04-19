@@ -1,6 +1,7 @@
 # own
 data/
 .vscode/
+runs/
 extra3.md
 *.pdf
 *.zip
